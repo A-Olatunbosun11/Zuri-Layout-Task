@@ -51,20 +51,17 @@ a:hover {
 }
 
 .col1{
-    /* width: 30%; */
     background-color:hsl(31, 77%, 52%);
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
 }
 
 .col2{
-    /* width: 30%; */
     background-color:hsl(184, 100%, 22%);
     
 }
 
 .col3{
-    /* width: 30%; */
     background-color:hsl(179, 100%, 13%);
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
@@ -166,7 +163,7 @@ p{
     margin: 0 auto;
   }
 
-  main div {
+  .box{
     padding: 5%;
   }
   
